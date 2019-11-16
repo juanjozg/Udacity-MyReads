@@ -1,5 +1,5 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+In this project, you will create a React application from scratch and utilize React components to manage the user interface. You’ll create a virtual bookcase to store your books and track what you're reading. Using the provided Books API, you’ll search for books and add them to a bookshelf as a React component. Finally, you’ll use React's setState to build the functionality to move books from one shelf to another.
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
